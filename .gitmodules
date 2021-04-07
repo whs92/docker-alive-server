@@ -1,0 +1,12 @@
+[submodule "alived"]
+	path = alived
+	url = https://gitlab.helmholtz-berlin.de/sissy/scripts/alive-server/alived.git
+[submodule "web-client"]
+	path = web-client
+	url = https://gitlab.helmholtz-berlin.de/sissy/scripts/alive-server/web-client.git
+[submodule "dcgi"]
+	path = dcgi
+	url = https://github.com/dohnarms/dcgi.git
+[submodule "client-tools"]
+	path = client-tools
+	url = https://github.com/epics-alive-server/client-tools.git
